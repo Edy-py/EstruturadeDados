@@ -1,4 +1,4 @@
-package src;
+package ListaCircular.src;
 
 public class SimpleCircleList {
     private Node cursor = null;
