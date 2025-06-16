@@ -6,14 +6,14 @@ public class Start {
         // TODO Auto-generated method stub
         SimpleCircleList listaExemplo = new SimpleCircleList();
 
-        Node n1 = new Node("Rafael");
+        Node n1 = new Node("Edílson");
         listaExemplo.add(n1);
-        Node n2 = new Node("Ana");
+        Node n2 = new Node("Matheus");
         listaExemplo.add(n2);
-        Node n3 = new Node("Ricardo");
+        Node n3 = new Node("Élio");
         listaExemplo.add(n3);
 
-        Node n4 = new Node("Lorenzo");
+        Node n4 = new Node("Pedro");
         listaExemplo.add(n4);
         Node n5 = new Node("Lorena");
         listaExemplo.add(n5);

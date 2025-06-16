@@ -9,6 +9,7 @@ public class SimpleCircleList {
     public int getSize() {
         return size;
     }
+
     public void advance() {
         if (size != 0)
             cursor = cursor.getNext();
